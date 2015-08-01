@@ -1,2 +1,2 @@
 # Trinidad-Blocks-LTD
-Random Crap pertaining to client, etc.
+Random Info pertaining to client, etc.
